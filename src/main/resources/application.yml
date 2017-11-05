@@ -1,0 +1,4 @@
+spring:
+  profiles: lab
+mockservice:
+  url: its me vinto..........How are you
